@@ -1,4 +1,4 @@
-# Cancer_Mama
+# CLASIFICACIÓN DE IMÁGENES  DE CÁNCER DE MAMA UTILIZANDO UN MODELO DE REDES NEURONALES CONVOLUCIONALES
 CLASIFICACIÓN DE IMÁGENES HISTOLÓGICAS DE CÁNCER DE MAMA UTILIZANDO UN MODELO DE REDES NEURONALES CONVOLUCIONALES
 
 Este proyecto tiene como objetivo desarrollar un modelo de Machine Learning para la clasificación de imágenes histopatológicas, con el propósito de detectar la presencia de carcinoma ductal invasivo (IDC) en tejidos mamarios. El carcinoma ductal invasivo es un tipo común de cáncer de mama, y la detección temprana es clave para mejorar las tasas de supervivencia. Utilizando un conjunto de datos de imágenes de histopatología descargado de Kaggle, que contiene imágenes etiquetadas como "IDC" (cáncer presente) y "No IDC" (sin cáncer), se procesaron las imágenes para su posterior análisis y modelado.

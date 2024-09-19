@@ -20,7 +20,7 @@ En conclusión, este proyecto no solo ha demostrado la capacidad de las CNNs par
 
 ANEXO
 
-Link del Dataset Original
+Link Data set Originak
 https://drive.google.com/drive/folders/1LYHrc5_IHeg6uT70PFIdHhIm4UGroc 00?usp=sharing
 
 Link del Dataset con las imágenes redimensionadas 224

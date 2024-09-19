@@ -17,29 +17,28 @@ aplicación permite cargar imágenes, realizar el análisis de manera automátic
 En conclusión, este proyecto no solo ha demostrado la capacidad de las CNNs para resolver problemas complejos en el ámbito médico, sino que también ha creado una solución práctica para apoyar a los profesionales de la salud en la detección temprana de cáncer de mama. Sin embargo, futuras mejoras deben centrarse en optimizar aún más la precisión del modelo y reducir el tiempo de procesamiento en entornos de baja capacidad de memoria, como Google Colab.
 
 
-
 ANEXO
 
-Link Data set Originak
-https://drive.google.com/drive/folders/1LYHrc5_IHeg6uT70PFIdHhIm4UGroc 00?usp=sharing
+Link del Dataset Original
+https://drive.google.com/drive/folders/1LYHrc5_IHeg6uT70PFIdHhIm4UGroc00?usp=sharing
 
 Link del Dataset con las imágenes redimensionadas 224
-https://drive.google.com/drive/folders/1U5OxqbwfsW4eTr7aZW1eFqAmHGm StLUd?usp=sharing
+https://drive.google.com/drive/folders/1U5OxqbwfsW4eTr7aZW1eFqAmHGmStLUd?usp=sharing
 
 Link del Data frame con las imágenes 224px
-https://drive.google.com/file/d/1Df-KXieRh2FbvabregRHl3b94Uf3sWrO/view? usp=sharing
+https://drive.google.com/file/d/1Df-KXieRh2FbvabregRHl3b94Uf3sWrO/view?usp=sharing
 
 Link al NoteBook de Google Colab
-https://colab.research.google.com/drive/12wDiu1bhkRGaIlsW85iNBVe_-3eLX 6MC?usp=sharing
+https://colab.research.google.com/drive/12wDiu1bhkRGaIlsW85iNBVe_-3eLX6MC?usp=sharing
 
 Link del Modelo Exportado en extensión h5
-https://drive.google.com/file/d/1LlPPSGtAhvy2-ht0HNIYcodqc42cHie1/view? usp=sharing
+https://drive.google.com/file/d/1LlPPSGtAhvy2-ht0HNIYcodqc42cHie1/view?usp=sharing
 
 Link del Codigo para la app de Escritorio .EXE
-https://drive.google.com/file/d/1LlPPSGtAhvy2-ht0HNIYcodqc42cHie1/view? usp=sharing
+https://drive.google.com/file/d/1LlPPSGtAhvy2-ht0HNIYcodqc42cHie1/view?usp=sharing
 
 Link al video del Proyecto
-https://drive.google.com/file/d/1RNgvwDfhKXJUO8ZN6ugVhLVsFOjWqO4X /view?usp=sharing
+https://drive.google.com/file/d/1RNgvwDfhKXJUO8ZN6ugVhLVsFOjWqO4X/view?usp=sharing
 
 Link a la Presentación del Proyecto
-https://docs.google.com/presentation/d/1C4aukotpfiLWvqs3zqq0xHlAsy53wo1 rt7_2IxCOqb4/edit?usp=sharing
+https://docs.google.com/presentation/d/1C4aukotpfiLWvqs3zqq0xHlAsy53wo1rt7_2IxCOqb4/edit?usp=sharing

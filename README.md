@@ -19,6 +19,9 @@ En conclusión, este proyecto no solo ha demostrado la capacidad de las CNNs par
 
 ANEXO
 
+Link al codigo de Matlab utilizado para el redimensionamiento
+https://drive.google.com/file/d/1nzR_3V86rKSnxi0kzNEr5Q-Z20F5Pc1N/view?usp=share_link
+
 Link del Dataset Original
 https://drive.google.com/drive/folders/1LYHrc5_IHeg6uT70PFIdHhIm4UGroc00?usp=sharing
 
